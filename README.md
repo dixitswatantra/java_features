@@ -32,4 +32,3 @@ Each folder contains:
 ## 📚 References
 - [OpenJDK JDK 25 Project](https://openjdk.org/projects/jdk/25/)
 - [InfoQ: Java 25 Released](https://www.infoq.com/news/2025/09/java25-released/)
-- [HappyCoders: Java 25 Features](https://www.happycoders.eu/java/java-25-features/)# java_features
